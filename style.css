@@ -1,0 +1,145 @@
+body {
+    background: gray;
+    margin: 0;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+header {
+    background: lightseagreen;
+    padding: 10px;
+
+}
+
+header h1 {
+    margin: auto;
+}
+
+div.post-1 {
+    background: white;
+    margin-top: 25px;
+}
+
+div.post-1 img {
+    width: 100%;
+}
+
+div.post-1 .post-1header div:first-child {
+    display: inline-block;
+    width: 70%;
+}
+
+div.post-1 .post-1header div:last-child {
+    display: inline-block;
+    width: 20%;
+    text-align: right;
+    padding-left: 30px;
+    color: grey;
+}
+
+div.post-1 h2,
+div.post-1 p {
+    padding: 10px;
+}
+
+div.container-1 {
+    width: 500px;
+    margin: auto;
+}
+
+div.post-2 {
+    background: white;
+    margin-top: 25px;
+}
+
+div.post-2 img {
+    width: 100%;
+}
+
+div.post-2 .post-2header div:first-child {
+    display: inline-block;
+    width: 70%;
+}
+
+div.post-2 .post-2header div:last-child {
+    display: inline-block;
+    width: 20%;
+    text-align: right;
+    padding-left: 30px;
+    color: grey;
+}
+
+div.post-2 h2,
+div.post-2 p {
+    padding: 10px;
+}
+
+div.container-2 {
+    width: 500px;
+    margin: auto;
+}
+
+div.post-3 {
+    background: white;
+    margin-top: 25px;
+}
+
+div.post-3 img {
+    width: 100%;
+}
+
+div.post-3 .post-3header div:first-child {
+    display: inline-block;
+    width: 70%;
+}
+
+div.post-3 .post-3header div:last-child {
+    display: inline-block;
+    width: 20%;
+    text-align: right;
+    padding-left: 30px;
+    color: grey;
+}
+
+div.post-3 h2,
+div.post-3 p {
+    padding: 10px;
+}
+
+div.container-3 {
+    width: 500px;
+    margin: auto;
+}
+
+div.post-4 {
+    background: white;
+    margin-top: 25px;
+}
+
+div.post-4 img {
+    width: 100%;
+}
+
+div.post-4 .post-4header div:first-child {
+    display: inline-block;
+    width: 70%;
+}
+
+div.post-4 .post-4header div:last-child {
+    display: inline-block;
+    width: 20%;
+    text-align: right;
+    padding-left: 30px;
+    color: grey;
+}
+
+div.post-4 h2,
+div.post-4 p {
+    padding: 10px;
+}
+
+div.container-4 {
+    width: 500px;
+    margin: auto;
+}
